@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is a change to the Alice file.
 This is a change to the Alice file to demonstrate merging.
 This is yet another change to Alice after adding Patrick.
+Trying out rebasing.
